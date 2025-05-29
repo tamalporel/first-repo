@@ -3,4 +3,8 @@ line2 from git
 line 3 from system
 line 48 from system
 line 5 from git
+<<<<<<< HEAD
 line 69 from system
+=======
+line 68 from system
+>>>>>>> 24e9c8349b3154a493410b519deb8a97f8a3d9b3
