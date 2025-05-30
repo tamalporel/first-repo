@@ -4,3 +4,5 @@ line 3 from system
 line 48 from system
 line 5 from git
 line 69 from system
+=====================
+This message from user branch 1
