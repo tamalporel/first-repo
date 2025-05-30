@@ -6,3 +6,5 @@ line 5 from git
 line 69 from system
 =====================
 This message from user branch 1
+=====================
+This message from user branch 1
